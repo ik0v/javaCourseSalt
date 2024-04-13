@@ -1,6 +1,12 @@
 package chapter4;
-
 import java.util.Random;
+
+/*
+    Roll the dice game.
+    User has 5 attempts to score exactly 20 points.
+    If user scores 20 points in less attempts it's also a win.
+    If user scores over 20 points it is loss anyway.
+*/
 
 public class RollTheDiceGame {
     public static void main(String[] args) {
