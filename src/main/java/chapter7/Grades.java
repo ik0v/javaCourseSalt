@@ -28,7 +28,7 @@ public class Grades {
 
     public static int calculateSum() {
         int sum = 0;
-        for (int grade : grades) sum += grade;   // example with oneliner for
+        for (int grade : grades) sum += grade;   // example with oneliner for and enhanced for loop
         return sum;
     }
 
