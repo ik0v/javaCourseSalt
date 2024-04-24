@@ -1,7 +1,5 @@
 package chapter11.farm;
 
-import chapter4.AddNumbers;
-
 public class Farm {
     public static void main(String[] args) {
 
